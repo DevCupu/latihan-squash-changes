@@ -2,4 +2,4 @@
 
 Squash changes commit 1
 Squash changes commit 2 
-Squash changes commit 
+Squash changes
